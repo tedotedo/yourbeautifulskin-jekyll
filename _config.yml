@@ -1,0 +1,13 @@
+name: ""
+description: ""
+
+url: "http://localhost:4000"
+
+paginate: 10
+
+permalink: pretty
+pygments: true
+# Build settings
+markdown: kramdown
+paginate: 10
+permalink: pretty
